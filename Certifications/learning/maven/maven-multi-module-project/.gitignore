@@ -28,3 +28,4 @@ hs_err_pid*
 
 #Maven Build Directory
 target/*
+.flattened-pom.xml
