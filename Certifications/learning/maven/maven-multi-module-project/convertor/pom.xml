@@ -11,17 +11,12 @@
 
     <artifactId>convertor</artifactId>
 
-    <properties>
-        <mapstruct.version>1.4.2.Final</mapstruct.version>
-    </properties>
-
     <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
-            <version>${mapstruct.version}</version>
         </dependency>
         <dependency>
             <groupId>org.example</groupId>
