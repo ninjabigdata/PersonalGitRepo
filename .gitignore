@@ -42,3 +42,6 @@ build
 .idea/*
 
 target
+
+# Excluded projects
+
